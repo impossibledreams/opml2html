@@ -11,6 +11,9 @@
 <!--
 #
 #   opml2html, created by Yakov Shafranovich.
+#   Copyright (c) 2005-2009 SolidMatrix Technologies, Inc.
+#   Copyright (c) 2009-2015 Shaftek Enterprises.
+#   Copyright (c) 2016- Impossible Dreams Network.
 #
 #   Source code can be found at:
 #   https://github.com/impossibledreams/opml2html
